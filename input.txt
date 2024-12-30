@@ -1,0 +1,1 @@
+With the new Tab Multi-Select functionality, tabs become first-class citizens in the interface. A simple modifier when performing actions will split the interface to show multiple tabs at once. Works with the side bar, tab bar, Goto Anything and more!
